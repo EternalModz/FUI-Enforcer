@@ -1,0 +1,52 @@
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Doc\howTo.doc
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\FUI Viewer.exe.config
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\FUI Viewer.exe
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\ja-JP\FUI Viewer.resources.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FUI.csproj.AssemblyReference.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.ImageColorationForm.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.MainWindow.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.PicViewerForm.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.RangeReplacementForm.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Properties.Resources.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.MainWindow.ja-JP.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FuiEditor.Properties.Resources.ja-JP.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FUI.csproj.GenerateResource.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FUI.csproj.CoreCompileInputs.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\ja-JP\FUI Viewer.resources.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FUI.csproj.CopyComplete
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Release\FUI Viewer.exe
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FUI.csproj.AssemblyReference.cache
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FUI Viewer.exe
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Doc\howTo.doc
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\FUI Viewer.exe.config
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\FUI Viewer.exe
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\ja-JP\FUI Viewer.resources.dll
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.ImageColorationForm.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.MainWindow.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.PicViewerForm.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.RangeReplacementForm.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Properties.Resources.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Forms.MainWindow.ja-JP.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FuiEditor.Properties.Resources.ja-JP.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FUI.csproj.GenerateResource.cache
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FUI.csproj.CoreCompileInputs.cache
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\ja-JP\FUI Viewer.resources.dll
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Release\FUI.csproj.CopyComplete

@@ -1,0 +1,28 @@
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI.csproj.AssemblyReference.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Forms.MainWindow.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Forms.PicViewerForm.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Forms.RangeReplacementForm.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Properties.Resources.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Forms.MainWindow.ja-JP.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Properties.Resources.ja-JP.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI.csproj.GenerateResource.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI.csproj.CoreCompileInputs.cache
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI.csproj.CopyComplete
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FuiEditor.Forms.ImageColorationForm.resources
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\Doc\howTo.doc
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\FUI Viewer.exe.config
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\FUI Viewer.exe
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\FUI Viewer.pdb
+C:\Users\visual\source\repos\Destructorrpy's Fui\bin\Debug\ja-JP\FUI Viewer.resources.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\ja-JP\FUI Viewer.resources.dll
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI Viewer.exe
+C:\Users\visual\source\repos\Destructorrpy's Fui\obj\Debug\FUI Viewer.pdb
