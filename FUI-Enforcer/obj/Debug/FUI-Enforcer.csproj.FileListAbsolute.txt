@@ -34,39 +34,5 @@ C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\De
 C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Debug\FUI-Enforcer.csproj.CopyComplete
 C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Debug\FUI Enforcer.exe
 C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Debug\FUI Enforcer.pdb
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\FUI Enforcer.exe.config
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\FUI Enforcer.exe
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\FUI Enforcer.pdb
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\ja-JP\FUI Enforcer.resources.dll
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\DarkNet.dll
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.dll
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\DarkNet.xml
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.xml
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI-Enforcer.csproj.AssemblyReference.cache
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI-Enforcer.csproj.SuggestedBindingRedirects.cache
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Forms.AttributesForm.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Forms.ImageColorationForm.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Forms.MainForm.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Forms.PicViewerForm.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Forms.RangeReplacementForm.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Properties.Resources.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\CBH.Controls.CrEaTiiOn_ColorSliderVertical.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\CBH.Controls.CrEaTiiOn_ComboBox.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\CBH.Controls.CrEaTiiOn_ModernTextBox.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_FancyComboBox.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Theme.ThemeBase.Ultimate_Controls.CrEaTiiOn_Ultimate_FancyTextBox.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\CBH.Ultimate.Controls.CrEaTiiOn_Ultimate_GradientTextBox.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Forms.MainForm.ja-JP.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI_Enforcer.Properties.Resources.ja-JP.resources
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI-Enforcer.csproj.GenerateResource.cache
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI-Enforcer.csproj.CoreCompileInputs.cache
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\ja-JP\FUI Enforcer.resources.dll
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI-Enforcer.csproj.CopyComplete
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI Enforcer.exe
-C:\Users\EternalModz\Documents\GitHub\FUI-Enforcer\FUI-Enforcer\obj\Debug\FUI Enforcer.pdb
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Debug\FUI_Enforcer.AboutForm.resources
+C:\Users\EternalModz\Desktop\Development\FUI Enforcer\Destructorrpy's Fui\obj\Debug\FUI_Enforcer.Classes.ThemeForm.resources

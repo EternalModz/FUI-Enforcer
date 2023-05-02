@@ -148,6 +148,7 @@ namespace FUI_Enforcer.Forms
             // 
             this.aboutFUIEnforcerToolStripMenuItem.Name = "aboutFUIEnforcerToolStripMenuItem";
             resources.ApplyResources(this.aboutFUIEnforcerToolStripMenuItem, "aboutFUIEnforcerToolStripMenuItem");
+            this.aboutFUIEnforcerToolStripMenuItem.Click += new System.EventHandler(this.aboutFUIEnforcerToolStripMenuItem_Click);
             // 
             // statusLabel
             // 
@@ -247,6 +248,7 @@ namespace FUI_Enforcer.Forms
             resources.ApplyResources(this.PicPreview, "PicPreview");
             this.PicPreview.Name = "PicPreview";
             this.PicPreview.TabStop = false;
+            this.PicPreview.Click += new System.EventHandler(this.PicPreview_Click);
             // 
             // statusStrip1
             // 

@@ -24,7 +24,7 @@ namespace FUI_Enforcer.Forms
         private string currentOpenFui = null;
         private bool shouldSaveFui = false;
         private byte[] fuiMainBytes;
-        private List<FuiImageInfo> fuiImageInfo = new List<FuiImageInfo>();
+        private List<FUIImageInfo> fuiImageInfo = new List<FUIImageInfo>();
         private List<byte[]> originalImagesData = new List<byte[]>();
         private List<ImageFormat> originalImageFormats = new List<ImageFormat>();
         private bool _dark = false;
@@ -35,7 +35,6 @@ namespace FUI_Enforcer.Forms
             InitializeComponent();
             fileOpenStripMenu.Enabled = false;
             OpenFui(fn);
-
         }
 
         private void OnClickFileOpen(object sender, EventArgs e)
@@ -317,7 +316,7 @@ namespace FUI_Enforcer.Forms
                 for (int i = 0; i < originalImageFormats.Count; i++)
                 {
                     ImageFormat imageFormat = originalImageFormats[i];
-                    FuiImageInfo imageInfo = fuiImageInfo[i];
+                    FUIImageInfo imageInfo = fuiImageInfo[i];
                     int attribute = imageInfo.Attribute;
                     string filepath;
 
@@ -378,7 +377,7 @@ namespace FUI_Enforcer.Forms
                 {
                     int selected = selectedIndices[i];
                     ImageFormat imageFormat = originalImageFormats[selected];
-                    FuiImageInfo imageInfo = fuiImageInfo[selected];
+                    FUIImageInfo imageInfo = fuiImageInfo[selected];
                     byte[] filedata = originalImagesData[selected];
                     string filepath;
 
@@ -494,7 +493,7 @@ namespace FUI_Enforcer.Forms
                 return;
             }
 
-            FuiImageInfo[] imageInfo = FuiUtils.GetImageInfo(filedata, pngIndex);
+            FUIImageInfo[] imageInfo = FuiUtils.GetImageInfo(filedata, pngIndex);
             List<byte[]> imagesData = FuiUtils.GetImagesData(filedata, pngIndex, imageInfo);
             originalImagesData.AddRange(imagesData);
             var t = new Thread(() =>
@@ -519,7 +518,7 @@ namespace FUI_Enforcer.Forms
                 rpgr(100);
                 cinvk(() =>
                 {
-                    fuiMainBytes = filedata.Take(pngIndex - imageInfo.Length * FuiImageInfo.NativeSize).ToArray();
+                    fuiMainBytes = filedata.Take(pngIndex - imageInfo.Length * FUIImageInfo.NativeSize).ToArray();
                     fuiImageInfo.AddRange(imageInfo);
                     LabelTotalEntries.Text = "Total Entries: " + imagesData.Count;
                     OnOpendFui(filepath);
@@ -551,7 +550,7 @@ namespace FUI_Enforcer.Forms
 
             for (int i = 0; i < fuiImageInfo.Count; i++)
             {
-                FuiImageInfo imageInfo = fuiImageInfo[i];
+                FUIImageInfo imageInfo = fuiImageInfo[i];
                 using (MemoryStream imageStream = new MemoryStream(originalImagesData[i], false))
                 {
                     Image imageSave = Image.FromStream(imageStream);
@@ -742,6 +741,17 @@ namespace FUI_Enforcer.Forms
         private void ButtonStopPreview_Click(object sender, EventArgs e)
         {
             _previewThread.Abort();
+        }
+
+        private void aboutFUIEnforcerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutForm F2 = new AboutForm(); // Instantiate a Form3 object.
+            F2.Show(); // Show Form3 and
+        }
+
+        private void PicPreview_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

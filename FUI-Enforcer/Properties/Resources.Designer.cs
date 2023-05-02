@@ -194,5 +194,15 @@ namespace FUI_Enforcer.Properties {
                 return ResourceManager.GetString("DialogWarning", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap FUI_EnforcerLogo {
+            get {
+                object obj = ResourceManager.GetObject("FUI_EnforcerLogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

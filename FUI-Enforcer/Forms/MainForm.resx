@@ -478,7 +478,7 @@
     <value>4, 3, 4, 6</value>
   </data>
   <data name="imageListView.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1206, 363</value>
+    <value>1206, 356</value>
   </data>
   <data name="imageListView.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>

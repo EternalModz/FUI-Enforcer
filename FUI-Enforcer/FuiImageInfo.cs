@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace FUI_Enforcer
 {
-    class FuiImageInfo
+    class FUIImageInfo
     {
         public static readonly int NativeSize = 32;
 
@@ -16,7 +16,7 @@ namespace FUI_Enforcer
         private int unkOffset;
         private int unk_0x1C;
 
-        public FuiImageInfo()
+        public FUIImageInfo()
         {
 
         }

@@ -7,30 +7,30 @@ namespace FUI_Enforcer.Classes
 {
     static class FuiUtils
     {
-        public static FuiImageInfo[] GetImageInfo(byte[] filedata, int imageIndex)
+        public static FUIImageInfo[] GetImageInfo(byte[] filedata, int imageIndex)
         {
-            Stack<FuiImageInfo> imageInfoStack = new Stack<FuiImageInfo>();
-            int currentOffset = imageIndex - FuiImageInfo.NativeSize;
+            Stack<FUIImageInfo> imageInfoStack = new Stack<FUIImageInfo>();
+            int currentOffset = imageIndex - FUIImageInfo.NativeSize;
             while (true)
             {
-                FuiImageInfo imageInfo = new FuiImageInfo();
+                FUIImageInfo imageInfo = new FUIImageInfo();
                 imageInfo.Read(filedata, currentOffset);
                 imageInfoStack.Push(imageInfo);
                 if (imageInfo.ImageOffset == 0)
                 {
                     break;
                 }
-                currentOffset -= FuiImageInfo.NativeSize;
+                currentOffset -= FUIImageInfo.NativeSize;
             }
 
             return imageInfoStack.ToArray();
         }
 
-        public static List<byte[]> GetImagesData(byte[] filedata, int imageIndex, FuiImageInfo[] imageInfoNeeded)
+        public static List<byte[]> GetImagesData(byte[] filedata, int imageIndex, FUIImageInfo[] imageInfoNeeded)
         {
             List<byte[]> imageList = new List<byte[]>(imageInfoNeeded.Length);
             int bytesRead = 0;
-            foreach (FuiImageInfo imageInfo in imageInfoNeeded)
+            foreach (FUIImageInfo imageInfo in imageInfoNeeded)
             {
                 /*using (MemoryStream stream = new MemoryStream(filedata, imageIndex + imageInfo.ImageOffset, imageInfo.ImageSize))
                 {
